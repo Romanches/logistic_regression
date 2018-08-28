@@ -1,0 +1,7 @@
+# python3 -m venv .env
+numpy
+matplotlib
+pillow
+
+jupyter
+RISE
