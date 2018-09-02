@@ -8,6 +8,7 @@ Just for fun.
 You need kaggle dataset from here: 
 [https://www.kaggle.com/c/dogs-vs-cats/data](https://www.kaggle.com/c/dogs-vs-cats/data)
 
+Put data-files in ``test1/`` and ``train/``.
 
 
 
